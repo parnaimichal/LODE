@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LODE2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c3b9cf7294fd57203215a49a0c2c4255f100e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c340e61cc1389d02561cad3e6b7bc7a940f0bcb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LODE2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LODE2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

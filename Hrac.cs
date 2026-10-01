@@ -532,49 +532,49 @@ namespace LodeHra
             return true;
         }
 
-        // =========================================
-        // RADAR
-        // =========================================
+            // =========================================
+            // RADAR
+            // =========================================
 
-        public bool Radar(int r, int s)
-        {
-            if (r < 0 || r >= 10 ||
-                s < 0 || s >= 10)
+            public bool Radar(int r, int s)
             {
-                return false;
-            }
-
-            bool nalezenaLod = false;
-
-            for (int i = r - 1; i <= r + 1; i++)
-            {
-                for (int j = s - 1; j <= s + 1; j++)
+                if (r < 0 || r >= 10 ||
+                    s < 0 || s >= 10)
                 {
-                    if (i >= 0 && i < 10 &&
-                        j >= 0 && j < 10)
+                    return false;
+                }
+
+                bool nalezenaLod = false;
+
+                for (int i = r - 1; i <= r + 1; i++)
+                {
+                    for (int j = s - 1; j <= s + 1; j++)
                     {
-                        if (Pole[i, j] == 'L')
+                        if (i >= 0 && i < 10 &&
+                            j >= 0 && j < 10)
                         {
-                            nalezenaLod = true;
+                            if (Pole[i, j] == 'L')
+                            {
+                                nalezenaLod = true;
+                            }
                         }
                     }
                 }
-            }
 
-            if (nalezenaLod)
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Radar: V okolí se nachází loď!");
-                Console.ResetColor();
-            }
-            else
-            {
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Radar: V okolí není žádná loď.");
-                Console.ResetColor();
-            }
+                if (nalezenaLod)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Radar: V okolí se nachází loď!");
+                    Console.ResetColor();
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("Radar: V okolí není žádná loď.");
+                    Console.ResetColor();
+                }
 
-            return nalezenaLod;
-        }
+                return nalezenaLod;
+            }
     }
 }
