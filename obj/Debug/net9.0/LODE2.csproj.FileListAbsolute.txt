@@ -12,3 +12,4 @@ C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\refint\LODE2.dll
 C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.pdb
 C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.genruntimeconfig.cache
 C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\ref\LODE2.dll
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.sourcelink.json
