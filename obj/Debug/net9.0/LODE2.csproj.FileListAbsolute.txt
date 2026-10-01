@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\LODE2\LODE2\bin\Debug\net9.0\LODE2.exe
+C:\Users\1\source\repos\LODE2\LODE2\bin\Debug\net9.0\LODE2.deps.json
+C:\Users\1\source\repos\LODE2\LODE2\bin\Debug\net9.0\LODE2.runtimeconfig.json
+C:\Users\1\source\repos\LODE2\LODE2\bin\Debug\net9.0\LODE2.dll
+C:\Users\1\source\repos\LODE2\LODE2\bin\Debug\net9.0\LODE2.pdb
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.AssemblyInfo.cs
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.dll
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\refint\LODE2.dll
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.pdb
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\LODE2.genruntimeconfig.cache
+C:\Users\1\source\repos\LODE2\LODE2\obj\Debug\net9.0\ref\LODE2.dll
